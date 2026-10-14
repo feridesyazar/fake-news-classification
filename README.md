@@ -89,7 +89,7 @@ An interactive Streamlit application allows users to classify news using three i
 The application uses the trained machine learning model to predict whether the submitted content resembles **Fake News** or **Real News**.
 
 
-**Live Demo:** [Try the Streamlit App](https://fake-news-classification-3vugc5nrgcbytf7ebyjmmx.streamlit.app/)
+**Live Demo:** [Try the Streamlit App](https://fake-news-nlp-classifier.streamlit.app/)
 
 ## 📁 Project Structure
 
