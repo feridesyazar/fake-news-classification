@@ -109,7 +109,7 @@ fake-news-classification/
 │
 ├── data/
 │   └── WELFake_Dataset.csv
-│
+
 ```
 
 *The CSV dataset is stored locally and is not included in the GitHub repository.*
