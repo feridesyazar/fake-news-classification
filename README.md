@@ -1,6 +1,6 @@
 # Fake News Classification with Machine Learning
 
-A short end-to-end NLP classification project that predicts whether a news article is **Fake** or **Real**.
+A short end-to-end NLP classification project that predicts whether a news article is **Fake** or **Real**. A short NLP project built with TF-IDF, Multinomial Naive Bayes, Logistic Regression, and a Streamlit web app.
 
 ## Problem Type
 
