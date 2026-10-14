@@ -4,7 +4,7 @@
 
 This project builds a machine learning model to classify news articles as **Fake** or **Real** using Natural Language Processing (NLP).
 
-The project covers data preprocessing, exploratory data analysis, model training, evaluation, and deployment through an interactive **Streamlit web application**.
+The project covers data preprocessing, exploratory data analysis, model training, evaluation, and deployment through an interactive **Streamlit web application**
 
 ## 🎯 Project Objective
 
