@@ -10,11 +10,11 @@ The project covers data preprocessing, exploratory data analysis, model training
 
 The goal is to develop a simple and practical fake news classification system that:
 
-- Analyzes news headlines and article content.
-- Converts text into numerical features using **TF-IDF**.
-- Compares two classification algorithms.
-- Evaluates model performance.
-- Provides predictions through a Streamlit web application.
+- Analyzes news headlines and article content
+- Converts text into numerical features using **TF-IDF**
+- Compares two classification algorithms
+- Evaluates model performance
+- Provides predictions through a Streamlit web application
 
 ## 📊 Dataset
 
@@ -37,15 +37,15 @@ The project uses the **WELFake Dataset**, containing **72,134 news articles** in
 
 ## 🔍 Exploratory Data Analysis
 
-The dataset is inspected and prepared before model training.
+The dataset is inspected and prepared before model training
 
 Main steps:
 
-1. Check dataset structure and missing values.
-2. Remove duplicate news articles.
-3. Combine headlines and article text.
-4. Explore the Fake and Real class distribution.
-5. Split the data into training and test sets.
+1. Check dataset structure and missing values
+2. Remove duplicate news articles
+3. Combine headlines and article text
+4. Explore the Fake and Real class distribution
+5. Split the data into training and test sets
 
 ## 🤖 Machine Learning Models
 
@@ -82,15 +82,12 @@ The best-performing model is selected using the weighted F1 Score.
 
 An interactive Streamlit application allows users to classify news using three input methods:
 
-1. **Enter News Manually** — Type or paste a news headline and article.
-2. **Paste News URL** — Extract available text from a news website.
-3. **Upload News File** — Upload a `.txt` file containing news text.
+1. **Enter News Manually** — Type or paste a news headline and article
+2. **Paste News URL** — Extract available text from a news website
+3. **Upload News File** — Upload a `.txt` file containing news text
 
 The application uses the trained machine learning model to predict whether the submitted content resembles **Fake News** or **Real News**.
 
-**Live Demo:** Coming soon
-
-*Note: The model identifies learned text patterns and does not independently verify the factual accuracy of news articles.*
 
 ## 📁 Project Structure
 
@@ -112,7 +109,6 @@ fake-news-classification/
 
 ```
 
-*The CSV dataset is stored locally and is not included in the GitHub repository.*
 
 ## 🚀 How to Run
 
