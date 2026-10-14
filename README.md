@@ -105,7 +105,7 @@ fake-news-classification/
 │   └── tfidf_vectorizer.pkl
 │
 ├── data/
-│   └── WELFake_Dataset.csv
+   └── WELFake_Dataset.csv
 
 ```
 
